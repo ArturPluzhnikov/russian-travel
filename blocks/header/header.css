@@ -3,13 +3,12 @@
   display: flex;
   padding: 28px 48px 0;
   margin-bottom: 56px;
-  align-items: center;
+  align-items: flex-end;
   justify-content: space-between;
 }
 
 @media screen and (max-width: 1200px) {
   .header {
-    
     margin-bottom: 48px;
   }
 }
