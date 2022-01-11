@@ -1,6 +1,6 @@
 # Название проекта: Путешествие по России
 
-## Ссылка на проект: https://github.com/ArturPluzhnikov/russian-travel.git
+## Ссылка на проект: https://arturpluzhnikov.github.io/russian-travel/
 
 ### С данным проектом осваивается адаптивная и резиновая верстки, а также применение нескольких типов верстки (Grid и Flex).
 #### Используемый шрифт - Inter
